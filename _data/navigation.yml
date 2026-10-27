@@ -15,6 +15,9 @@ main:
   - title: "Rewards"
     url: "/#-rewards"
 
+  - title: "Honors"
+    url: "/#-honors"
+
   - title: "Educations"
     url: "/#-educations"
 
