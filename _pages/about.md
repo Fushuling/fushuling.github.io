@@ -31,9 +31,9 @@ I was an active CTF player on team SU <img src="images/logo-su.png" class="org-l
 
 # 👑 Honors
 
-- *2025*, **Open Source Pioneer Award**, Fudan University
 - *2025*, **Second Prize, Open Source Vulnerability Discovery Track**, Open Source Security Reward Program
 - *2025*, **Outstanding Partner**, XCTF Satellite Contest
+- *2025*, **Open Source Pioneer Award**, Fudan University
 - *2024*, **Annual Honor Master**, Chunqiu Cloud
 - *2023*, **Annual Honor Master**, Chunqiu Cloud
 
