@@ -48,7 +48,14 @@ I was an active CTF player on team SU <img src="images/logo-su.png" class="org-l
 - *2023*, **Annual Honor Master**, Chunqiu Cloud
 
 # 📖 Educations
+- *2025.09 - present*, Master's student, Fudan University (SecSys Lab) <img src="images/logo-fudan.png" class="org-logo" alt="Fudan University">
 - *2021.09 - 2025.06*, Bachelor in Cyberspace Security, Chongqing University of Posts and Telecommunications <img src="images/logo-cqupt.png" class="org-logo" alt="Chongqing University of Posts and Telecommunications">
 
 # 💻 Internships
 - *2023.07 - 2023.12*, Intelligence and Offensive/Defensive Operations Laboratory, Xiaohongshu, China <img src="images/logo-xiaohongshu.png" class="org-logo" alt="Xiaohongshu">
+
+<span class='anchor' id='services'></span>
+# 🧑‍🏫 Services
+
+- *2025 & 2026*, Sub-Reviewer, USENIX Security Symposium.
+- **Teaching Assistant**, *System Security Attack and Defense Technology*, Fudan University: responsible for lab teaching and CTF challenge design, authored 50+ challenges, and was awarded Outstanding Teaching Assistant.
