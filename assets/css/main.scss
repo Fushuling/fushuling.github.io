@@ -107,3 +107,11 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* small inline logo shown after an institution / company name */
+.org-logo {
+    height: 1.25em;
+    width: auto;
+    vertical-align: -0.25em;
+    margin-left: .4em;
+}
