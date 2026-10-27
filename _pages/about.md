@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,29 +15,27 @@ I am a security researcher currently seeking an internship. I have discovered se
 I am passionate about sharing my thoughts and insights. Since my freshman year of college, I have maintained a blog at [fushuling.com](https://fushuling.com), which has now garnered nearly one million visits. I have authored numerous engaging and influential posts, uncovered unique exploitation techniques, and remain an active participant in various professional knowledge-sharing communities. XD
 
 
-# 🔥 News
-
-# 📝 Publications 
+# 📝 Publications
 
 # 💬 Conferences
 
 # 🏅 Rewards
 
-I was an active CTF player on team SU, competing with my teammates in many well-known domestic and international contests. I have also authored challenges for several major competitions, including XCTF, DASCTF, and internal contests of state-owned enterprises. With the rise of AI, I am no longer active in CTF.
+I was an active CTF player on team SU <img src="images/logo-su.png" class="org-logo" alt="SU">, competing with my teammates in many well-known domestic and international contests. I have also authored challenges for several major competitions, including XCTF, DASCTF, and internal contests of state-owned enterprises. With the rise of AI, I am no longer active in CTF.
 
-- *2025*, **XCTF-L3HCTF**, Champion 🏆, with「SU」<img src="images/logo-su.png" class="org-logo" alt="SU">
-- *2024*, **XCTF-RCTF**, Runner-up 🥈, with「SU」<img src="images/logo-su.png" class="org-logo" alt="SU">
-- *2023*, **XCTF-ACTF**, Runner-up 🥈, with「SU」<img src="images/logo-su.png" class="org-logo" alt="SU">
+- *2025*, **XCTF-L3HCTF**, Champion 🏆, with「SU」
+- *2024*, **XCTF-RCTF**, Runner-up 🥈, with「SU」
+- *2023*, **XCTF-ACTF**, Runner-up 🥈, with「SU」
 - *2023*, **Longjian Cup** (陇剑杯), Student Group Champion 🏆 in the semifinal and 8th place overall (Third Prize) in the final, with「root」
-- *2023*, **RealWorldCTF** (Experience Round), Runner-up 🥈, with「SU」<img src="images/logo-su.png" class="org-logo" alt="SU">
+- *2023*, **RealWorldCTF** (Experience Round), Runner-up 🥈, with「SU」
 
 # 🎖 Honors
 
 - *2025*, **Open Source Pioneer Award**, Fudan University
-- *2025*, **Second Prize, Open Source Vulnerability Discovery Track**, Open Source Security Reward Program (开源安全奖励计划)
-- *2025*, **Outstanding Partner**, XCTF Satellite Contest (XCTF 分站赛)
-- *2024*, **Annual Honor Master**, Chunqiu Cloud (春秋云境)
-- *2023*, **Annual Honor Master**, Chunqiu Cloud (春秋云境)
+- *2025*, **Second Prize, Open Source Vulnerability Discovery Track**, Open Source Security Reward Program
+- *2025*, **Outstanding Partner**, XCTF Satellite Contest
+- *2024*, **Annual Honor Master**, Chunqiu Cloud
+- *2023*, **Annual Honor Master**, Chunqiu Cloud
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Bachelor in Cyberspace Security, Chongqing University of Posts and Telecommunications <img src="images/logo-cqupt.png" class="org-logo" alt="Chongqing University of Posts and Telecommunications">
