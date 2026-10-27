@@ -19,6 +19,7 @@ I am passionate about sharing my thoughts and insights. Since my freshman year o
 
 # 💬 Conferences
 
+<span class='anchor' id='projects'></span>
 # 🛠️ Projects
 
 - [**TaintScaner**](https://github.com/Fushuling/TaintScaner), 170+ stars: a static analysis tool for PHP based on taint analysis. It traces data flows from common sources such as `$_POST` and `$_GET` to sinks such as `system()`, and supports both whole-project and single-function scanning, including cross-file taint propagation.
