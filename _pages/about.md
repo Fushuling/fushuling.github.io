@@ -58,4 +58,4 @@ I was an active CTF player on team SU <img src="images/logo-su.png" class="org-l
 # 🧑‍🏫 Services
 
 - *2025 & 2026*, Sub-Reviewer, USENIX Security Symposium.
-- **Teaching Assistant**, *System Security Attack and Defense Technology*, Fudan University: responsible for lab teaching and CTF challenge design, authored 50+ challenges, and was awarded Outstanding Teaching Assistant.
+- *2025 - 2026*, **Teaching Assistant**, *System Security Attack and Defense Technology*, Fudan University: responsible for lab teaching and CTF challenge design, authored 50+ challenges, and was awarded Outstanding Teaching Assistant.
