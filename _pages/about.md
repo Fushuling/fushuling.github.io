@@ -17,7 +17,9 @@ I am passionate about sharing my thoughts and insights. Since my freshman year o
 
 # 📝 Publications
 
-- **Babel of Voices: Demystifying Security Threats Arising from Cross-Specification URL Parsing Inconsistencies in Web Applications**. Qiyi Zhang, **Anmao Gou**, Youkun Shi, Fengyu Liu, Yuan Zhang. In *Proceedings of the 48th IEEE Symposium on Security and Privacy (S&P)*, May 2027.
+1. `IEEE S&P'27` **Babel of Voices: Demystifying Security Threats Arising from Cross-Specification URL Parsing Inconsistencies in Web Applications**<br />
+   Qiyi Zhang, **Anmao Gou**, Youkun Shi, Fengyu Liu, Yuan Zhang.<br />
+   In *Proceedings of the 48th IEEE Symposium on Security and Privacy (S&P)*, May 2027.
 
 # 💬 Conferences
 
