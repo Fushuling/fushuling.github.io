@@ -19,6 +19,11 @@ I am passionate about sharing my thoughts and insights. Since my freshman year o
 
 # 💬 Conferences
 
+# 🛠️ Projects
+
+- [**TaintScaner**](https://github.com/Fushuling/TaintScaner), 170+ stars: a static analysis tool for PHP based on taint analysis. It traces data flows from common sources such as `$_POST` and `$_GET` to sinks such as `system()`, and supports both whole-project and single-function scanning, including cross-file taint propagation.
+- [**jdbc-tricks**](https://github.com/yulate/jdbc-tricks), 580+ stars: a research summary project on JDBC security, covering special JDBC URL construction and non-networked deserialization exploitation, with proof-of-concepts for the MySQL, H2 and PostgreSQL drivers, a JDBC URL fuzzer and real-world cases.
+
 # 🏅 Rewards
 
 I was an active CTF player on team SU <img src="images/logo-su.png" class="org-logo" alt="SU">, competing with my teammates in many well-known domestic and international contests. I have also authored challenges for several major competitions, including XCTF, DASCTF, and internal contests of state-owned enterprises. With the rise of AI, I am no longer active in CTF.
