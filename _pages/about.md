@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a security researcher currently seeking an internship. I have discovered security vulnerabilities in over 50 open-source projects with 10k+ stars—including Apache, MySQL, vLLM, Spring, LangChain, OpenClaw, AutoGPT, and Jenkins—all of which were subsequently acknowledged and patched. I have also received formal acknowledgments from major tech companies such as Microsoft, Amazon, and Oracle. In addition, I have reported multiple vulnerabilities to the CNVD (China National Vulnerability Database) that received the highest severity rating, and my findings have twice been featured in Tencent Cloud Security's "Must-Know Vulnerabilities of the Month" list. The full record is available in my [vulnerability list](https://github.com/Fushuling/Vulnerability-List).
+I am a security researcher currently seeking an internship. I have discovered security vulnerabilities in over 50 open-source projects with 10k+ stars—including Apache, MySQL, vLLM, Spring, LangChain, OpenClaw, AutoGPT, and Jenkins—all of which were subsequently acknowledged and patched. I have also received formal acknowledgments from major tech companies such as Microsoft, Amazon, and Oracle. In addition, I have reported multiple vulnerabilities to the CNVD that received the highest severity rating, and my findings have twice been featured in Tencent Cloud Security's "Must-Know Vulnerabilities of the Month" list. The full record is available in my [vulnerability list](https://github.com/Fushuling/Vulnerability-List).
 
-I am passionate about sharing my thoughts and insights. Since my freshman year of college, I have maintained a blog at [fushuling.com](https://fushuling.com), which has now garnered nearly one million visits. I have authored numerous engaging and influential posts, uncovered unique exploitation techniques, and remain an active participant in various professional knowledge-sharing communities (Knowledge Planets). XD
+I am passionate about sharing my thoughts and insights. Since my freshman year of college, I have maintained a blog at [fushuling.com](https://fushuling.com), which has now garnered nearly one million visits. I have authored numerous engaging and influential posts, uncovered unique exploitation techniques, and remain an active participant in various professional knowledge-sharing communities. XD
 
 
 # 🔥 News
@@ -22,6 +22,14 @@ I am passionate about sharing my thoughts and insights. Since my freshman year o
 # 💬 Conferences
 
 # 🏅 Rewards
+
+I was an active CTF player on team SU, competing with my teammates in many well-known domestic and international contests. I have also authored challenges for several major competitions, including XCTF, DASCTF, and internal contests of state-owned enterprises. With the rise of AI, I am no longer active in CTF.
+
+- *2025*, **XCTF-L3HCTF**, Champion 🏆, with SU
+- *2024*, **XCTF-RCTF**, Runner-up 🥈, with SU
+- *2023*, **RealWorldCTF** (Experience Round), Runner-up 🥈, with SU
+- *2023*, **XCTF-ACTF**, Runner-up 🥈, with SU
+- *2023*, **Longjian Cup** (陇剑杯), Student Group Champion 🏆 in the semifinal and 8th place overall (Third Prize) in the final, with root
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Bachelor in Cyberspace Security, Chongqing University of Posts and Telecommunications <img src="images/logo-cqupt.png" class="org-logo" alt="Chongqing University of Posts and Telecommunications">
