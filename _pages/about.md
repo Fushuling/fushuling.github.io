@@ -41,6 +41,7 @@ I was an active CTF player on team SU <img src="images/logo-su.png" class="org-l
 
 # 👑 Honors
 
+- *2025*, **6th Place, PHP Track**, Alibaba Fumo Challenge
 - *2025*, **Second Prize, Open Source Vulnerability Discovery Track**, Open Source Security Reward Program
 - *2025*, **Outstanding Partner**, XCTF Satellite Contest
 - *2025*, **Open Source Pioneer Award**, Fudan University
