@@ -38,7 +38,7 @@ I was an active CTF player on team SU <img src="images/logo-su.png" class="org-l
 - *2024*, **XCTF-RCTF**, Runner-up 🥈, with「SU」
 - *2023*, **Longjian Cup**, Student Group Champion 🏆 in the semifinal and 8th place overall (Third Prize) in the final, with「root」
 - *2023*, **XCTF-ACTF**, Runner-up 🥈, with「SU」
-- *2023*, **"Mountain City Cup" Cybersecurity Competition Preliminary Round**, Champion 🏆 , with「NotEnoughEffort」
+- *2023*, **"Mountain City Cup" Cybersecurity Competition** (Preliminary Round), Champion 🏆 , with「NotEnoughEffort」
 - *2023*, **RealWorldCTF** (Experience Round), Runner-up 🥈, with「SU」
 
 # 👑 Honors
