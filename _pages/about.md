@@ -53,7 +53,7 @@ I was an active CTF player on team SU <img src="images/logo-su.png" class="org-l
 # 📖 Educations
 - *2025.09 - present*, Master's student, Fudan University (SecSys Lab) <img src="images/logo-fudan.png" class="org-logo" alt="Fudan University">
 - *2021.09 - 2025.06*, Bachelor in Cyberspace Security, Chongqing University of Posts and Telecommunications <img src="images/logo-cqupt.png" class="org-logo" alt="Chongqing University of Posts and Telecommunications">
-    - Junior moderator of the CQUPT forum (Tieba), where I was recognized as an outstanding moderator and even received an internship certificate from Baidu! XD
+    - I used to be a junior moderator for the CQUPT forum (tieba), where I was recognized as an outstanding moderator and even received an internship certificate from Baidu! XD
 
 # 💻 Internships
 - *2023.07 - 2023.12*, Intelligence and Offensive/Defensive Operations Laboratory, Xiaohongshu, China <img src="images/logo-xiaohongshu.png" class="org-logo" alt="Xiaohongshu">
