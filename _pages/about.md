@@ -14,6 +14,7 @@ I am a security researcher currently seeking an internship. I usually use the ID
 
 I am passionate about sharing my thoughts and insights. Since my freshman year of college, I have maintained a blog at [fushuling.com](https://fushuling.com), which has now garnered nearly one million visits. I have authored numerous engaging and influential posts, uncovered unique exploitation techniques, and remain an active participant in various professional knowledge-sharing communities. XD
 
+My favorite band is *ONE OK ROCK*. <\3
 
 # 📝 Publications
 
@@ -37,6 +38,7 @@ I was an active CTF player on team SU <img src="images/logo-su.png" class="org-l
 - *2024*, **XCTF-RCTF**, Runner-up 🥈, with「SU」
 - *2023*, **Longjian Cup**, Student Group Champion 🏆 in the semifinal and 8th place overall (Third Prize) in the final, with「root」
 - *2023*, **XCTF-ACTF**, Runner-up 🥈, with「SU」
+- *2023*, **"Mountain City Cup" Cybersecurity Competition Preliminary Round**, Champion 🏆 , with「NotEnoughEffort」
 - *2023*, **RealWorldCTF** (Experience Round), Runner-up 🥈, with「SU」
 
 # 👑 Honors
