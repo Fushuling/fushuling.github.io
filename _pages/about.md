@@ -32,7 +32,9 @@ My favorite band is *ONE OK ROCK*. <\3
 
 # 🏅 Rewards
 
-I was an active CTF player on team SU <img src="images/logo-su.png" class="org-logo" alt="SU">, competing with my teammates in many well-known domestic and international contests. I have also authored challenges for several major competitions, including XCTF, DASCTF, and internal contests of state-owned enterprises. With the rise of AI, I am no longer active in CTF.
+I was an active CTF player on team SU <img src="images/logo-su.png" class="org-logo" alt="SU">, competing with my teammates in many well-known domestic and international contests. In 2025, we ranked among the Top 50 teams globally on CTFtime and secured 1st place on the XCTF leaderboard!
+
+I have also authored challenges for several major competitions, including XCTF, DASCTF, and internal contests of state-owned enterprises. With the rise of AI, I am no longer active in CTF.
 
 - *2025*, **XCTF-L3HCTF**, Champion 🏆, with「SU」
 - *2024*, **XCTF-RCTF**, Runner-up 🥈, with「SU」
@@ -47,8 +49,8 @@ I was an active CTF player on team SU <img src="images/logo-su.png" class="org-l
 - *2025*, **6th Place, PHP Track**, Alibaba Fumo Challenge
 - *2025*, **Outstanding Partner**, XCTF Satellite Contest
 - *2025*, **Open Source Pioneer Award**, Fudan University
-- *2024*, **Annual Honor Master**, Chunqiu Cloud
-- *2023*, **Annual Honor Master**, Chunqiu Cloud
+- *2024*, **Annual Honor Master**, Chunqiu Cloudscape
+- *2023*, **Annual Honor Master**, Chunqiu Cloudscape
 
 # 📖 Educations
 - *2025.09 - present*, Master's student, Fudan University (SecSys Lab) <img src="images/logo-fudan.png" class="org-logo" alt="Fudan University">
