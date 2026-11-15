@@ -36,12 +36,12 @@ I was an active CTF player on team SU <img src="images/logo-su.png" class="org-l
 
 I have also authored challenges for several major competitions, including XCTF, DASCTF, and internal contests of state-owned enterprises. With the rise of AI, I am no longer active in CTF.
 
-- *2026*, **Qiangwang Cup** (Online Qualifier), 5th Place (Second Prize) , with「whitzard」
+- *2026*, **Qiangwang Cup** (Preliminary Round), 5th Place (Second Prize) , with「Whitzard」
 - *2025*, **XCTF-L3HCTF**, Champion 🏆, with「SU」
 - *2024*, **XCTF-RCTF**, Runner-up 🥈, with「SU」
 - *2023*, **Longjian Cup**, Student Group Champion 🏆 in the semifinal and 8th place overall (Third Prize) in the final, with「root」
 - *2023*, **XCTF-ACTF**, Runner-up 🥈, with「SU」
-- *2023*, **"Mountain City Cup" Cybersecurity Competition** (Preliminary Round), Champion 🏆 , with「NotEnoughEffort」
+- *2023*, **Mountain City Cup** (Preliminary Round), Champion 🏆 , with「NotEnoughEffort」
 - *2023*, **RealWorldCTF** (Experience Round), Runner-up 🥈, with「SU」
 
 # 👑 Honors
